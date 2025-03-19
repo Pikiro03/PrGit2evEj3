@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="066028ec-7c4b-4c7c-a159-d815c486fb99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrGit2evEj32.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Departamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Empresa.java" afterDir="false" />
+    <list default="true" id="066028ec-7c4b-4c7c-a159-d815c486fb99" name="Changes" comment="Inicio">
+      <change beforePath="$PROJECT_DIR$/src/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Departamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Empresa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Pikiro03/PrGit2evEj3.git",
+    "accountId": "993fb19d-19be-47fd-98d2-2d19a3557898"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -39,8 +41,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/pikir/Desktop/ExamenGit/PrGit2evEj32/src/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -62,12 +69,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742389079446</updated>
-      <workItem from="1742389080423" duration="218000" />
+      <workItem from="1742389080423" duration="563000" />
     </task>
+    <task id="LOCAL-00001" summary="Inicio">
+      <option name="closed" value="true" />
+      <created>1742389556035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742389556035</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
